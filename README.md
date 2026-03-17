@@ -8,7 +8,7 @@ Tzunki is a bridge between ancient wisdom and digital clarity. Built on the Base
 
 ## 🔗 Official Links
 - **Website:** [https://www.tzunki.com/]
-- **Documentation:** [https://www.tzunki.com/whitepaper/whitepaper-en.pdf]
+- **Documentation:** [https://www.tzunki.com/whitepaper/whitepaper.pdf]
 - **Twitter/X:** [https://x.com/tzunki_coin]
 - **Warpcast:** [https://farcaster.xyz/ayachui]
 - **Telegram:** [https://t.me/TZNKcoin]
